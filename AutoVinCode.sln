@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoVinCode", "AutoVinCode.csproj", "{CB4D51FD-DD49-43F5-B345-E5244A47626D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoVinTest", "..\AutoVinTest\AutoVinTest.csproj", "{E51A4315-AC7F-4E88-890D-385960D765EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB4D51FD-DD49-43F5-B345-E5244A47626D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB4D51FD-DD49-43F5-B345-E5244A47626D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB4D51FD-DD49-43F5-B345-E5244A47626D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB4D51FD-DD49-43F5-B345-E5244A47626D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E51A4315-AC7F-4E88-890D-385960D765EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E51A4315-AC7F-4E88-890D-385960D765EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E51A4315-AC7F-4E88-890D-385960D765EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E51A4315-AC7F-4E88-890D-385960D765EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3835342-B5B8-423E-BE77-5A79489CF209}
+	EndGlobalSection
+EndGlobal
